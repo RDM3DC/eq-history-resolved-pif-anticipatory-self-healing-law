@@ -1,5 +1,12 @@
 # History-Resolved pi_f Anticipatory Self-Healing Conductance Law
 
+
+<!-- HERO_ANIMATION:BEGIN -->
+![History-resolved π_f anticipatory self-healing law](images/pi_f_anticipatory_self_healing.gif)
+
+_Hero animation: **History-resolved π_f anticipatory self-healing law**. [Download high-resolution MP4](images/pi_f_anticipatory_self_healing.mp4)._
+<!-- HERO_ANIMATION:END -->
+
 TopEquations promoted equation bundle for `eq-history-resolved-pif-anticipatory-self-healing-law`.
 
 **Score:** 91  
