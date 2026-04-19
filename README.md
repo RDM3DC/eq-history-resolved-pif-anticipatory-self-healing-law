@@ -1,6 +1,5 @@
 # History-Resolved pi_f Anticipatory Self-Healing Conductance Law
 
-
 <!-- HERO_ANIMATION:BEGIN -->
 ![History-resolved π_f anticipatory self-healing law](images/pi_f_anticipatory_self_healing.gif)
 
